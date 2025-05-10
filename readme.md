@@ -1,9 +1,6 @@
 # An Enclosure for MFJ™ RF Power/SWR Meter Board Sets Using PCBs
 
-<img src="docs/photos/overview_FR_PXL_20240605_022437414.jpg" alt="photo, front-right" height="140"/> 
-<img src="docs/photos/overview_RL_PXL_20240605_022518499.jpg" alt="photo, front-right" height="140"/> 
-<img src="docs/images/pcb-panels-front.png" alt="photo, front-right" height="140"/>  
-<img src="docs/images/3d_view1.png" alt="photo, front-right" height="140"/>  
+<img src="docs/photos/overview_FR_PXL_20240605_022437414.jpg" alt="photo, front-right" height="140"/> <img src="docs/photos/overview_RL_PXL_20240605_022518499.jpg" alt="photo, front-right" height="140"/> <img src="docs/images/pcb-panels-front.png" alt="photo, front-right" height="140"/> <img src="docs/images/3d_view1.png" alt="photo, front-right" height="140"/>  
 
 
 ## What is it?
@@ -20,14 +17,11 @@ A member of our local amateur radio club had a couple dozen older MFJ board sets
 
 ## Photos
 
-<img src="docs/photos/overview_FR_PXL_20240605_022437414.jpg" alt="photo, front-right" width="300"/> 
-<img src="docs/photos/overview_RL_PXL_20240605_022518499.jpg" alt="photo, front-right" width="300"/>  
+<img src="docs/photos/overview_FR_PXL_20240605_022437414.jpg" alt="photo, front-right" width="300"/> <img src="docs/photos/overview_RL_PXL_20240605_022518499.jpg" alt="photo, front-right" width="300"/>  
 
-<img src="docs/photos/overview_RR_PXL_20240602_160942831.jpg" alt="photo, front-right" width="300"/> 
-<img src="docs/photos/overview_BR_PXL_20240605_022458056.jpg" alt="photo, front-right" width="300"/>  
+<img src="docs/photos/overview_RR_PXL_20240602_160942831.jpg" alt="photo, front-right" width="300"/> <img src="docs/photos/overview_BR_PXL_20240605_022458056.jpg" alt="photo, front-right" width="300"/>  
 
-<img src="docs/photos/overview_FL_PXL_20240605_022352009.jpg" alt="photo, front-right" width="300"/>  
-<img src="docs/images/3d_view1.png" alt="photo, front-right" width="300"/>  
+<img src="docs/photos/overview_FL_PXL_20240605_022352009.jpg" alt="photo, front-right" width="300"/> <img src="docs/images/3d_view1.png" alt="photo, front-right" width="300"/>  
 
 Front of PCBs:  
 <img src="docs/images/pcb-panels-front.png" alt="photo, front-right" width="600"/>  
