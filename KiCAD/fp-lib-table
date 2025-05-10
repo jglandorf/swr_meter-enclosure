@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Panelization")(type "KiCad")(uri "/Users/joe/Documents/kicad/Panelization.pretty")(options "")(descr ""))
+  (lib (name "PanelizationKF")(type "KiCad")(uri "/Users/joe/Documents/kicad/Kicad-Footprints/Panelization.pretty")(options "")(descr ""))
+  (lib (name "cutouts")(type "KiCad")(uri "${KIPRJMOD}/cutouts.pretty")(options "")(descr ""))
+)
